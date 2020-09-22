@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Ranchers');
+nav{
+  margin-top: 1%;
+}
+.title{
+  font-family:Roboto;
+}
+p{
+  font-family:Ranchers;
+  color:red;
+}

@@ -1,10 +1,45 @@
 nav{
   margin-top: 1%;
 }
+
 .title{
   font-family:Roboto;
 }
 p{
-  font-family:Ranchers;
-  color:red;
+  font-family:Roboto;
+  color:black;
+}
+body{
+  margin:0;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.main_section{
+}
+.wrapper {
+  margin:auto;
+  width: 80%;
+}
+.logo,.menu {
+  display: inline-block;
+}
+
+
+.logo {
+  margin-right: 50%;
+  padding: 40px 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu_item {
+  padding: 0 13px;
+}
+.menu_item:last-child {
+  padding-right:0;
 }
